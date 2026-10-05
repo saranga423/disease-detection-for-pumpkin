@@ -1,1 +1,1 @@
-# disease-detection-for-pumpkin
+# Disease-detection-for-pumpkin
